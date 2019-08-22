@@ -1,11 +1,9 @@
-#define _CRT_SECURE_NO_WARNINGS
-
-
 #include <windows.h>
 #include <d3d9.h>
 #include <d3dx9.h>
 #include <stdio.h>
 #include "stdint.h"
+#include "draw_functions.cpp"
 
 
 #pragma comment(lib, "d3d9.lib")

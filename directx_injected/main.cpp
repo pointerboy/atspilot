@@ -3,7 +3,6 @@
 #include <d3dx9.h>
 #include <stdio.h>
 #include "stdint.h"
-#include "draw_functions.cpp"
 
 
 #pragma comment(lib, "d3d9.lib")

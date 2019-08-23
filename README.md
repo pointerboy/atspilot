@@ -9,5 +9,10 @@ developer mode. All you need to do is head over to your Documents/American Truck
 SCS software offers a SDK for both American Truck Simulator and Euro Truck Simulator. The data between these two games is the same (breaking intenstity, current job offers and stuff) in theory. I'll put up some major differences if I ever come across any of them.
 The repository holds 'ets2-client' and 'ets2-telementry' folder which include /gets/ for variables. That means that you're only able to fetch the /live/ data but not change it using the functions inside the SDK. 
 
--- to be worked on.
+# Troubleshooting dispaly settings
+
+* There are some minor issues with adjusting ATS gradisplay phical settings. For instance: if you change anything in the display settings you can't ALT-TAB because the previous screen (just before you changed your settings) will remain there. One way to fix this is to re-boot the game.
+
+* Same goes for changing the resolution and the fullscreen mode. It is recommended to change the resolution first then log out of the game and then go back in to change the fullscreen setting.
+
 
